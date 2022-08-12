@@ -1,0 +1,37 @@
+live_config_reload: true
+window:
+  startup_mode: Maximized
+  opacity: 0.85
+  padding:
+    x: 18
+    y: 14
+  dynamic_padding: false
+  title: Alacritty
+  tabspaces: 4
+font:
+  normal:
+    family: JetBrains Mono Nerd Font
+    style: Regular
+  size: 13
+colors:
+  primary:
+    background: "#282c34"
+    foreground: "#abb2bf"
+  normal:
+    black: "#282c34"
+    red: "#e06c75"
+    green: "#98c379"
+    yellow: "#d19a66"
+    blue: "#61afef"
+    magenta: "#c678dd"
+    cyan: "#56b6c2"
+    white: "#abb2bf"
+  bright:
+    black: "#5c6370"
+    red: "#e06c75"
+    green: "#98c379"
+    yellow: "#d19a66"
+    blue: "#61afef"
+    magenta: "#c678dd"
+    cyan: "#56b6c2"
+    white: "#ffffff"
